@@ -26,7 +26,7 @@ years_coding = st.selectbox(
 # Q16: Years of Machine Learning Experience
 years_ml = st.selectbox(
     "How many years have you used machine learning methods?",
-    ["I have never written code", "< 1 years", "1-3 years", "3-5 years", "5-10 years", "10-20 years", "20+ years"]
+    ["I have never used mashine learning methods", "< 1 years", "1-3 years", "3-5 years", "5-10 years", "10-20 years", "20+ years"]
 )
 
 # Q26: Company Size
